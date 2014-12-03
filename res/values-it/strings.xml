@@ -171,4 +171,10 @@
     <string name="manageConferenceLabel" msgid="4691922394301969053">"Gestisci audioconferenza"</string>
     <string name="emergency_call_dialog_number_for_display" msgid="8373041754188879871">"Numero di emergenza"</string>
     <string name="select_account_dialog_title" msgid="5730339500156684204">"Seleziona account"</string>
+    <string name="onscreenBlacklistText">Blacklist</string>
+    <string name="blacklist_dialog_title">Aggiungi alla blacklist</string>
+    <string name="blacklist_dialog_message">Le prossime chiamate da <xliff:g id="number">%s</xliff:g> saranno bloccate</string>
+    <string name="volume_boost_notify_enabled">"Amplificazione volume ON"</string>
+    <string name="volume_boost_notify_disabled">"Amplificazione volume OFF"</string>
+    <string name="volume_boost_notify_unavailable">"Il volume extra non è disponibile quando le cuffie sono inserite"</string>
 </resources>
