@@ -171,4 +171,12 @@
     <string name="manageConferenceLabel" msgid="4691922394301969053">"Gérer la conférence téléphonique"</string>
     <string name="emergency_call_dialog_number_for_display" msgid="8373041754188879871">"Numéro d\'urgence"</string>
     <string name="select_account_dialog_title" msgid="5730339500156684204">"Sélectionner un compte"</string>
+
+    <!-- Text for the onscreen "Blacklist" button -->
+    <string name="onscreenBlacklistText">Liste noire</string>
+    <string name="onscreenMoreMenuText">Plus de menu</string>
+
+    <!-- Blacklist confirmation dialog -->
+    <string name="blacklist_dialog_title">Ajouter à la liste noire</string>
+    <string name="blacklist_dialog_message">Les futurs appels de <xliff:g id="number">%s</xliff:g> seront bloqués</string>
 </resources>
